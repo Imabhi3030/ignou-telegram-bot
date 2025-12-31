@@ -1,3 +1,2 @@
-nano requirements.txt
 python-telegram-bot==20.7
 
